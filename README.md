@@ -1,8 +1,8 @@
 # Flutter's website
 
- [Flutter](https://flutter.io/)官网资源的中文翻译项目，如果发现错误或想加入翻译，可以给本项目提PR， 本项目对应的网站为Flutter中文社区官网：[https://flutterchina.club](https://flutterchina.club) ，欢迎大家一起来维护。
+ [Flutter](https://flutter.io/)官网资源的中文翻译项目，如果发现错误或想加入翻译，可以给本项目提PR， 本项目对应的网站为Flutter中文社区官网：[https://www.flutterdart.cn](https://www.flutterdart.cn) ，欢迎大家一起来维护。
 
-如果想加入Flutter翻译组或开源项目组，请先阅读[Flutter中文网翻译计划、开源项目计划](https://flutterchina.club/about/)，里面有联系方式。
+如果想加入Flutter翻译组或开源项目组，请先阅读[Flutter中文网翻译计划、开源项目计划](https://www.flutterdart.cn/about/)，里面有联系方式。
 
 
 ## Issues, bugs, and requests
