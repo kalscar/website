@@ -1,7 +1,7 @@
 # Site settings
-title: "Flutter中文网"
-email: flutter-dev@googlegroups.com
-email_name: flutter-dev@
+title: "Flutter中文文档"
+email: me67554@gmail.com
+email_name: me67554
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "https://www.www.flutterdart.cn"
 cdn: "https://doc.flutterdart.cn"

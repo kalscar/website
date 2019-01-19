@@ -1,5 +1,5 @@
 ---
-title: Flutter中文网
+title: Flutter中文文档
 layout: page
 homepage: true
 comment: false
@@ -29,7 +29,7 @@ hide_title: true
 
     <div class="homepage__button_row">
     <a href="/get-started/install/" class="get-started-button">快速开始</a>
-    <a target="_blank" onclick="_track('juejin-homepage')" href="https://juejin.im/tag/Flutter?utm_source=flutterchina&utm_medium=word&utm_content=btn&utm_campaign=q3_website" style="width: 160px; border: #009bea 1px solid;background-color: white; color: #0074bb;text-transform:none; padding:15px" class="get-started-button">掘金Flutter社区</a>
+    <a target="_blank" onclick="_track('juejin-homepage')" href="https://www.flutterdart.cn" style="width: 160px; border: #009bea 1px solid;background-color: white; color: #0074bb;text-transform:none; padding:15px" class="get-started-button">FlutterDart中文社区</a>
     </div>
 
     <div class="key-points">

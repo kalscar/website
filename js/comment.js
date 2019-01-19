@@ -3766,11 +3766,11 @@ var myTheme = {
         container.className = 'gitment-container gitment-footer-container'
         container.innerHTML = `
               我的
-              <a class="gitment-footer-project-link" href="https://juejin.im/user/58211b88a0bb9f0058c25b7f/posts" target="_blank">
-                博客
+              <a class="gitment-footer-project-link" href="https://www.flutterdart.cn" target="_blank">
+                中文论坛
               </a>和 
-               <a class="gitment-footer-project-link" href="https://github.com/wendux" target="_blank">
-                Github
+               <a class="gitment-footer-project-link" href="https://doc.flutterdart.cn" target="_blank">
+                中文文档
               </a>
             `
         return container
@@ -3778,12 +3778,12 @@ var myTheme = {
 }
 var gitment = new Gitment({
     id: document.title, // optional
-    owner: 'wendux',
+    owner: 'kalscar',
     repo: 'flutter-comment',
     theme: myTheme,
     oauth: {
-        client_id: 'e8f5b33c35801fd30ea7',
-        client_secret: 'db43587e8687f38eee148d7f5312cf6a2685fd30',
+        client_id: '66b1ff43c2187735b0fe',
+        client_secret: '803d590cb7a14a47f6d4c98a6e1970e26a74ad01',
     }
     // ...
     // For more available options, check out the documentation below
