@@ -3766,7 +3766,7 @@ var myTheme = {
         container.className = 'gitment-container gitment-footer-container'
         container.innerHTML = `
               我的
-              <a class="gitment-footer-project-link" href="https://www.flutterdart.cn" target="_blank">
+              <a class="gitment-footer-project-link" href="https://doc.flutterdart.cn" target="_blank">
                 中文论坛
               </a>和 
                <a class="gitment-footer-project-link" href="https://doc.flutterdart.cn" target="_blank">
