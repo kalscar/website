@@ -6,8 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "https://www.doc.flutterdart.cn"
 cdn: "https://file.flutterdart.cn/website"
 github_username: flutter
-description: Flutter中文文档基于google官方flutter英文文档翻译，由专人提供最新文档翻译，是世界最好的flutter中文文档。
-keywords: flutter中文, flutter中文文档, flutter中文教程
+description: Flutter中文文档基于google官方flutter文档翻译，由专人提供最新文档翻译，是世界最好的flutter官方中文文档。
+keywords: flutter中文,flutter官方中文,flutter中文官方,flutter中文文档,flutter中文教程
 
 # Build settings
 markdown: kramdown
