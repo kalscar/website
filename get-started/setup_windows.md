@@ -6,7 +6,7 @@ summary: 在Windows上搭建Flutter开发环境
 keywords: 在Windows上搭建Flutter开发环境
 ---
 
-下面的都是翻译，有点复杂，可以参考这篇 [https://www.flutterdart.cn/t/topic/54](https://www.flutterdart.cn/t/topic/54)
+下面的都是翻译，有点复杂，可以参考这篇 <a href="https://www.flutterdart.cn/t/topic/54" target="_blank">https://www.flutterdart.cn/t/topic/54</a>
 
 * TOC Placeholder
 {:toc}
