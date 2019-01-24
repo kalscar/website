@@ -6,8 +6,7 @@
   <link rel="shortcut icon" href="{{ "/images/favicon.png" | prepend: site.cdn  }}">
   <meta name="description" content="{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{{page.tags}}{% if page.tags %},{% elsif page.keywords %}{{page.keywords|append: ',' }}{% endif %}{{ site.keywords }} ">
-  <meta name="baidu-site-verification" content="oeLolPaTVU" />
-  <meta name="sogou_site_verification" content="xhNTjenszq"/>
+  <meta name="google-site-verification" content="d5vlAc5i-2F0rjxrY0QQkaNUJdUS9IEwQQ-QxV3gPQI" />
   <link rel="stylesheet" href="{{ "/css/lavish-bootstrap.css" | prepend: site.cdn }}">
   <link rel="stylesheet" href="{{ "/css/main.css"}}">
   <link href="https://cdn.jsdelivr.net/gh/google/material-design-icons@3.0.1/iconfont/material-icons.css" rel="stylesheet">
@@ -47,14 +46,5 @@
             _hmt.push(['_trackEvent', 'ad', 'click', p]);
         }
       </script>
-      <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'GA_TRACKING_ID');
-    </script>
   {% endif %}
 </head>
